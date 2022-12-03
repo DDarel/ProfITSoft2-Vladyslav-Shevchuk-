@@ -1,0 +1,27 @@
+<violations>
+    <violation date_time="2021-06-06 16:36:06"
+               first_name = "Sasha"
+               last_name = "Sashov"
+               type = "CAR CRASH"
+               fine_amount = "2500.00" />
+    <violation date_time="2020-01-01 12:36:06"
+               first_name = "Ivan"
+               last_name = "Ivanov"
+               type = "SPEEDING"
+               fine_amount = "1340.00" />
+    <violation date_time="2022-01-01 12:36:06"
+               first_name = "Masha"
+               last_name = "Mashova"
+               type = "RED LIGHT"
+               fine_amount = "340.00" />
+    <violation date_time="2020-01-01 12:36:06"
+               first_name = "Vlad"
+               last_name = "Vladov"
+               type = "SPEEDING"
+               fine_amount = "1130.00" />
+    <violation date_time="2021-04-06 16:36:06"
+               first_name = "Misha"
+               last_name = "Mishov"
+               type = "NO LICENCE"
+               fine_amount = "10.00" />
+</violations>
